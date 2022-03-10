@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: 기술블로그
 description: 자꾸 까먹어서 기록용 블로그
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/TonyJHC" # the subpath of your site, e.g. /blog
 url: "https://TonyJHC.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
